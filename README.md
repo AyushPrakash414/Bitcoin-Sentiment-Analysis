@@ -1,4 +1,4 @@
-# 📊 Market Sentiment & Trader Performance Analysis  
+# 📊 Market Sentiment & Trader Performance Analysis 
 **Exploring the relationship between market mood and trader profitability**
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
